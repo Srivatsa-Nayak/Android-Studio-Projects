@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<records>
+    <place>
+        <name>China</name>
+        <lat>76.8</lat>
+        <long>65.89</long>
+        <temperature>25</temperature>
+        <humidity>40%</humidity>
+    </place>
+    <place>
+        <name>Africa</name>
+        <lat>34.67</lat>
+        <long>67.76</long>
+        <temperature>45</temperature>
+        <humidity>70%</humidity>
+    </place>
+</records>

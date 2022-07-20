@@ -1,0 +1,16 @@
+[
+  {
+    "name": "China",
+    "lat": "34.45",
+    "long": "76.77",
+    "temperature": "67",
+    "humidity": "55%"
+  },
+  {
+    "name": "Africa",
+    "lat": "34.45",
+    "long": "76.77",
+    "temperature": "47",
+    "humidity": "58%"
+  }
+]
